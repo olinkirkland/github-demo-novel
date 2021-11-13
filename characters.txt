@@ -10,3 +10,6 @@ Jordan Baker – an amateur golfer with a sarcastic streak and an aloof attitude
 George B. Wilson – a mechanic and owner of a garage. He is disliked by both his wife, Myrtle Wilson, and Tom Buchanan, who describes him as "so dumb he doesn't know he's alive". At the end of the novel, George kills Catsby, wrongly believing he had been driving the car that killed Myrtle, and then kills himself.
 
 Wilson – George's wife and Tom Buchanan's mistress. Myrtle, who possesses a fierce vitality, is desperate to find refuge from her disappointing marriage. She is accidentally killed by Catsby's car, as she mistakenly thinks Tom is still driving it and runs after it.
+
+Bob Bobson - Made up character for git practice purposes.
+Joe Bobson - Made up character for git practice purposes.
